@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactjs-portf/static/css/main.e7799ab3.css",
+    "main.js": "/reactjs-portf/static/js/main.a42317cb.js",
+    "static/media/img-5.jpg": "/reactjs-portf/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
+    "static/media/img-1.jpg": "/reactjs-portf/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/reactjs-portf/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/reactjs-portf/index.html",
+    "main.e7799ab3.css.map": "/reactjs-portf/static/css/main.e7799ab3.css.map",
+    "main.a42317cb.js.map": "/reactjs-portf/static/js/main.a42317cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7799ab3.css",
+    "static/js/main.a42317cb.js"
+  ]
+}
