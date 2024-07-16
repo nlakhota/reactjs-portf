@@ -14,7 +14,7 @@ function HeroSection() {
             <div className='cards__wrapper'>
               <ul className='cards__items'>
                 <CardItem
-                  src='public/images/MyPic.jpg'
+                  src='/public/images/MyPic.jpg'
                   text='Hello, I am Nakib. I am heavily interested in sports, gaming, and politics. I pretty much watch almost all the sports, such as Futball, American Football, Formula 1, Basketball, etc. Currently, I game on a lot of F1 24, CS2, FIFA, etc.'
                   label='Nakib Lakhota (Me)'
                   path='/'
